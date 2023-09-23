@@ -16,7 +16,7 @@ Before creating a pivot table, prepare your datasheet by ensuring the headers ar
 Click anywhere within the data range, go to the "Insert" tab, and then select "Pivot Table". This is to highlight your pivot table.
 
 <center>
-	<img :src="$withBase('/2.png')" alt="Sample Data">
+	<img :src="$withBase('/2.png')" alt="Insert Pivot">
 </center>
 
 ### Step 3: Configure Your Pivot Table
@@ -24,7 +24,7 @@ Click anywhere within the data range, go to the "Insert" tab, and then select "P
 After clicking "Pivot Table", a dialogue will appear with several selections:
 
 <center>
-	<img :src="$withBase('/3.png')" alt="Sample Data">
+	<img :src="$withBase('/3.png')" alt="Configure">
 </center>
 
 - Under "Select a table of range", the range of your table is already generated; don't change a thing.
@@ -36,7 +36,7 @@ After clicking "Pivot Table", a dialogue will appear with several selections:
 When done with the configuration, a new sheet will be generated with the "PivotTable Fields" on the right side.
 
 <center>
-	<img :src="$withBase('/4a.png')" alt="Sample Data">
+	<img :src="$withBase('/4a.png')" alt="Designing">
 </center>
 
 You can drag and drop the fields in specific areas:
@@ -47,7 +47,7 @@ You can drag and drop the fields in specific areas:
 - Values - calculates and counts data.
 
 <center>
-<img :src="$withBase('/4g.gif')" style="width:600px;" alt="Dragging field to areas">
+<img :src="$withBase('./4g.gif')" style="width:600px;" alt="Dragging fields to areas">
 </center>
 
 ### Step 5: Customize Your Pivot Table
