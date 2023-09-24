@@ -47,7 +47,7 @@ You can drag and drop the fields in specific areas:
 - Values - calculates and counts data.
 
 <center>
-<img :src="$withBase('./4g.gif')" style="width:600px;" alt="Dragging fields to areas">
+<img :src="$withBase('/4g.gif')" style="width:600px;" alt="Dragging fields to areas">
 </center>
 
 ### Step 5: Customize Your Pivot Table
