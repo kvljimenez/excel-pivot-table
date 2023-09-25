@@ -12,7 +12,7 @@ This is a Vuepress project that can generate a basic tutorial on creating an Exc
 
 Procedure to run the manual.
 
-1. Install [**Node.js**](https://nodejs.org/download/release/v16.20.2/node-v16.20.2-x64.msi).
+1. Install [**Node.js**](https://nodejs.org/download/release/v16.20.2/) that matches your system.
 
 2. Clone the project.
     ```
@@ -22,6 +22,7 @@ Procedure to run the manual.
 3. Access the directory.
     ```
     cd excel-pivot-table
+    ```
 
 4. Install dependencies needed to run.
     ```
