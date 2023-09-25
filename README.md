@@ -12,7 +12,7 @@ This is a Vuepress project that can generate a basic tutorial on creating an Exc
 
 Procedure to run the manual.
 
-1. Install [**Node.js**](https://nodejs.org/download/release/v16.20.2/) that matches your system.
+1. Install [**NodeJs v16.20.2**](https://nodejs.org/download/release/v16.20.2/) that matches your system.
 
 2. Clone the project.
     ```
