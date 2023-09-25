@@ -7,3 +7,4 @@ TODOs.md
 /vuepress
 packages/@vuepress/shared-utils/lib/
 packages/@vuepress/shared-utils/types/
+docs/.vuepress/dist
