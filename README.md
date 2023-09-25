@@ -33,7 +33,7 @@ Procedure to run the manual.
     ```
     npm run docs:dev
     ```
-- The application is running on your local host or by default, 
+- The application is running on your local host or, by default, 
 [**http://localhost:8080**](http://localhost:8080).
     
 6. Generate a static website for deployment.
