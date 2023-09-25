@@ -1,8 +1,8 @@
-# Excel PivotTable tutorial on Vuepress
+# Vuepress Excel PivotTable tutorial
 
 ## Description
 
-This is a Vuepress project that can generate a basic tutorial on Excel PivotTable.
+This is a Vuepress project that can generate a basic tutorial on creating an Excel PivotTable.
 
 ## Prerequisit
 
@@ -10,9 +10,9 @@ This is a Vuepress project that can generate a basic tutorial on Excel PivotTabl
 
 ## Installation
 
-Proceedure to run the manual.
+Procedure to run the manual.
 
-1. Install Node.js ([**dowload link**](https://nodejs.org/download/release/v16.20.2/node-v16.20.2-win-x86.zip))
+1. Install ([**Node.js**](https://nodejs.org/download/release/v16.20.2/node-v16.20.2-win-x86.zip))
 
 2. Clone the project
     ```
