@@ -1,6 +1,5 @@
 # Vuepress Excel PivotTable tutorial
 
-<<<<<<< HEAD
 ## Description
 
 This is a Vuepress project that can generate a basic tutorial on creating an Excel PivotTable.
