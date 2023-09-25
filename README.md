@@ -19,18 +19,27 @@ Procedure to run the manual.
     git clone https://github.com/kvljimenez/excel-pivot-table.git
     ```
 
-3. Generate a static website.
+3. Access the directory.
+    ```
+    cd excel-pivot-table
+
+4. Install dependencies needed to run.
+    ```
+    npm install
+    ```
+
+5. Run locally.
+
+    ```
+    npm run docs:dev
+    ```
+- The application is running on your local host or by default, 
+[**http://localhost:8080**](http://localhost:8080).
+    
+6. Generate a static website for deployment.
     ```
     npm run docs:build
     ```
 
 
-4. Run in the local server.
 
-    ```
-    npm run docs:dev
-    ```
-
-
-The application is running on your local host or by default, 
-[**http://localhost:8080**](http://localhost:8080).
