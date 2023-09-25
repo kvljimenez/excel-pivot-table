@@ -2,9 +2,6 @@
 
 <<<<<<< HEAD
 ## Description
-=======
-This is a simple procedure on how to create a PivotTable.
->>>>>>> 1aa94b7b13de4d69646d43b6a1f740bc9ddbcbc8
 
 This is a Vuepress project that can generate a basic tutorial on creating an Excel PivotTable.
 
@@ -28,11 +25,9 @@ Procedure to run the manual.
     npm install
     ```
 
-<<<<<<< HEAD
-4. Run in local server
-=======
-3. Run in the local server
->>>>>>> 1aa94b7b13de4d69646d43b6a1f740bc9ddbcbc8
+
+4. Run in the local server
+
     ```
     npm run docs:dev
     ```
