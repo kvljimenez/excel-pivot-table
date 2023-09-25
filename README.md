@@ -1,6 +1,6 @@
 # Excel PivotTable
 
-This a simple proceedure on how to create a PivotTable.
+This is a simple procedure on how to create a PivotTable.
 
 ## Prerequisits
 
@@ -15,7 +15,7 @@ This a simple proceedure on how to create a PivotTable.
 
 ## Installation
 
-Proceedure to run the manual.
+Procedure to run the manual.
 
 1. Clone the project
     ```
@@ -27,7 +27,7 @@ Proceedure to run the manual.
     npm install
     ```
 
-3. Run in local server
+3. Run in the local server
     ```
     npm start
     ```
