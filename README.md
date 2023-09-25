@@ -19,7 +19,7 @@ Procedure to run the manual.
     git clone https://github.com/kvljimenez/excel-pivot-table.git
     ```
 
-3. Downloads a package and it's dependencies
+3. Download a package and it's dependencies.
     ```
     npm install
     ```
@@ -32,5 +32,5 @@ Procedure to run the manual.
     ```
 
 
-The application is running on your local host or by default 
-[**http://localhost:8080**](http://localhost:8080)
+The application is running on your local host or by default, 
+[**http://localhost:8080**](http://localhost:8080).
