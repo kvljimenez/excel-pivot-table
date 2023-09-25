@@ -19,13 +19,13 @@ Procedure to run the manual.
     git clone https://github.com/kvljimenez/excel-pivot-table.git
     ```
 
-3. Download a package and it's dependencies.
+3. Generate a static website.
     ```
-    npm install
+    npm run docs:build
     ```
 
 
-4. Run in the local server
+4. Run in the local server.
 
     ```
     npm run docs:dev
