@@ -1,10 +1,10 @@
-# Vuepress Excel PivotTable tutorial
+# Quick Startup
 
 ## Description
 
 This is a Vuepress project that can generate a basic tutorial on creating an Excel PivotTable.
 
-## Prerequisit
+## Prerequisite
 
 - Node.js 
 
@@ -12,9 +12,9 @@ This is a Vuepress project that can generate a basic tutorial on creating an Exc
 
 Procedure to run the manual.
 
-1. Install ([**Node.js**](https://nodejs.org/download/release/v16.20.2/node-v16.20.2-win-x86.zip))
+1. Install ([**Node.js**](https://nodejs.org/download/release/v16.20.2/node-v16.20.2-win-x86.zip)).
 
-2. Clone the project
+2. Clone the project.
     ```
     git clone https://github.com/kvljimenez/excel-pivot-table.git
     ```
