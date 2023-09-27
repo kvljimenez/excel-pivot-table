@@ -1,15 +1,15 @@
 module.exports = {
     title: 'Excel PivotTable',
-    description: ' ',
+    description: 'Transforming Complexity to Clarity',
     base: '/',
     themeConfig: {
-
-      tagline: ' ',
-
       nav: [
         {text: 'Home', link: '/'},
         {text: 'Guide', link: '/guide/'},        
       ],
       sidebar: 'auto'
-    }
+    },
+    head: [
+      ['link', {rel: 'icon', href:'tinylogo.ico'}]
+    ]
   }
