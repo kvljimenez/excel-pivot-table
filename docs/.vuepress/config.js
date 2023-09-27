@@ -1,9 +1,11 @@
 module.exports = {
     title: 'Excel PivotTable',
-    description: 'Excel PivotTable tutorial using vuepress',
+    description: ' ',
     base: '/',
     themeConfig: {
-      tagline: false,
+
+      tagline: ' ',
+
       nav: [
         {text: 'Home', link: '/'},
         {text: 'Guide', link: '/guide/'},        
